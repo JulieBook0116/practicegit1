@@ -1,0 +1,20 @@
+Testing priority queue class: NoPQ
+NoPQ FAIL: Unable to construct instance of NoPQ
+   0 TOTAL TESTS RUN
+Testing priority queue class: PQ01
+  10 PASSED
+   0 FAILED
+  10 TOTAL TESTS RUN
+Testing priority queue class: PQ02
+FAILED test00isEmpty: unexpectedly threw java.lang.NullPointerException
+   9 PASSED
+   1 FAILED
+  10 TOTAL TESTS RUN
+Testing priority queue class: PQ03
+FAILED test04insertRemoveMany: inserted elements not removed in the right orderShould return 3, 2, 1 instead returns -1
+   9 PASSED
+   1 FAILED
+  10 TOTAL TESTS RUN
+Testing priority queue class: MyPQ
+MyPQ FAIL: Unable to construct instance of MyPQ
+   0 TOTAL TESTS RUN
